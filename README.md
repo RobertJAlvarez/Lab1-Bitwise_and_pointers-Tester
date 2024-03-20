@@ -1,1 +1,1 @@
-# Lab1-Bitwise_and_pointers-Tester
+# Lab1_Bitwise_and_pointers-Solution
